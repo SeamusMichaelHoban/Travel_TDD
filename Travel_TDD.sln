@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel_TDD", "Travel_TDD\Travel_TDD.csproj", "{57F1A30E-4F91-477A-9D79-876DC5B2D883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel", "Travel\Travel.csproj", "{A62382B5-E284-4339-998F-B4D6597AD237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F1A30E-4F91-477A-9D79-876DC5B2D883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F1A30E-4F91-477A-9D79-876DC5B2D883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F1A30E-4F91-477A-9D79-876DC5B2D883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F1A30E-4F91-477A-9D79-876DC5B2D883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62382B5-E284-4339-998F-B4D6597AD237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62382B5-E284-4339-998F-B4D6597AD237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62382B5-E284-4339-998F-B4D6597AD237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62382B5-E284-4339-998F-B4D6597AD237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE67CBAF-DCF7-4C09-A31D-67C68FBFE7EF}
+	EndGlobalSection
+EndGlobal
